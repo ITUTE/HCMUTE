@@ -1,47 +1,33 @@
-//-----Min(a,b,c)-----
-
+//https://github.com/Titytus/HCMUTE
+//----- IN: 3.2 >> OUT: 3;  IN:-3.2 >> OUT: -4 -----
 #include <stdio.h>
 
-void nhap(int &a, int &b, int &c);
-int min(int a, int b);
-void xuat(int a);
+void nhap(double &a);
+void xuat(int kq);
+int xuly(double a);
 
-int main(){
-	int a,b,c;
-	nhap(a,b,c);
-	int kq=min(min(a,b),c);
+int main()
+{
+	double a;
+	nhap(a);
+	int kq=xuly(a);
 	xuat(kq);
 	return 0;
 }
 
-void nhap(int &a, int &b, int &c){
-	scanf("%d%d%d", &a, &b, &c);
+void nhap(double &a)
+{
+	scanf("%lf",&a);
 }
 
-void xuat(int a){
-	printf("%d", a);
+void xuat(int kq)
+{
+	printf("%d",kq);
 }
 
-int min(int a, int b){
-	if (a<=b)
-		return a;
-	else
-		return b;
+int xuly(double a)
+{
+	if (a<0)
+		return (int)a - 1;
+	return (int)a;
 }
-
-/*
-int main(){
-	int a,b,c;
-	nhap(a,b,c);
-	int kq=min(a,b,c);
-	xuat(kq);
-}
-
-int min(int a, int b, int c){
-	if ((a<=b)&&(a<=c))
-		return a;
-	else if ((b<=a)&&(b<=c))
-			return b;
-		else return c;
-}
-*/

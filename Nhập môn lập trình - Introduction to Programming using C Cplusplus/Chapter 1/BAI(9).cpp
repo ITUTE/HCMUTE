@@ -1,31 +1,34 @@
-//-----Kiem tra nam nhuan-----
+//https://github.com/Titytus/HCMUTE
+//-----Min(a,b,c)-----
 
 #include <stdio.h>
+ 
+void nhap(int &a, int &b, int &c);
+int min(int a, int b);
+void xuat(int a);
 
-void nhap(int &year);
-bool kiemtra(int year);
-void xuat(int kq);
-
-int main(){
-	int year;
-	nhap(year);
-	int kq=kiemtra(year);
+int main()
+{
+	int a,b,c;
+	nhap(a,b,c);
+	int kq=min(min(a,b),c);
 	xuat(kq);
 	return 0;
 }
 
-void nhap(int &year){
-	scanf("%d", &year);
+void nhap(int &a, int &b, int &c)
+{
+	scanf("%d%d%d", &a, &b, &c);
 }
 
-bool kiemtra(int year){
-	return ((year % 400==0)||(((year % 4==0&&year % 100!=0))));
+void xuat(int a)
+{
+	printf("%d", a);
 }
 
-void xuat(int kq){
-	if (kq)
-		printf("Nam nhuan");
-	else
-		printf("Ko nhuan");
-	
+int min(int a, int b)
+{
+	if (a<=b)
+		return a;
+	return b;
 }

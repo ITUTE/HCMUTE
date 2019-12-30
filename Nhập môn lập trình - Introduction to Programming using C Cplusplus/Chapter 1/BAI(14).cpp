@@ -1,42 +1,60 @@
-//-----Min_2nd(a,b,c)-----
+//https://github.com/Titytus/HCMUTE
+//-----Co may ngay trong thang n? -----
 
 #include <stdio.h>
 
-void nhap(int &a, int &b, int &c);
-void sapxep(int &a, int &b);
-int func(int a, int b, int c);
-void xuat(int a);
+void nhap(int &month, int &year);
+int songay(int month, int year);
+bool nhuan(int year);
+void xuat(int kq);
 
-int main(){
-	int a,b,c;
-	nhap(a,b,c);
-	int min_2nd=func(a,b,c);
-	xuat(min_2nd);
+int main()
+{
+	int month, year;
+	nhap(month, year);
+	int kq=songay(month, year);
+	xuat(kq);
 	return 0;
 }
 
-void nhap(int &a, int &b, int &c){
-	scanf("%d%d%d", &a, &b, &c);
+void nhap(int &month, int &year)
+{
+	scanf("%d%d", &month, &year);
 }
 
-void sapxep(int &a, int &b){
-	int t;
-	if (a>b){
-		t=a;
-		a=b;
-		b=t;
+bool nhuan(int year)
+{
+	return ( (year % 400 == 0) || (year % 4 == 0 && year % 100 != 0) );
+}
+
+int songay(int month, int year)
+{
+	switch (month)
+	{
+		case 1: case 3: case 5: case 7: case 8: case 10: case 12:
+			return 31; break;
+		case 4: case 6: case 9: case 11:
+			return 30; break;
+		default:
+			if (nhuan(year))
+				return 29;
+			else
+				return 28;
 	}
 }
 
-int func(int a, int b, int c){
-	sapxep(a,b);
-	if (c<=a)
-		return a;
-	else if ((c>a)&&(c<=b))
-			return c;
-		else return b;
-}
-void xuat(int a){
-	printf("%d", a);
+void xuat(int kq){
+	printf("So ngay: %d\n", kq);
 }
 
+/*
+int songay(int month, int year)
+{
+	int A[]={31,31,28,31,30,31,30,31,31,30,31,30,31};
+	if (month != 2)
+		return A[month];
+	if (nhuan(year))
+		return 29;
+	return 28;
+}
+*/

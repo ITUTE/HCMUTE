@@ -1,26 +1,31 @@
-//-----Tra ve gia tri tuyet doi cua so nguyen n, |n|-----
+//https://github.com/Titytus/HCMUTE
+//-----abs(n)-----
 
 #include <stdio.h>
-#include <math.h> 
 
 void nhap(int &n);
-int tinh(int n);
+int abs(int n);
 void xuat(int kq);
 
-int main(){
+int main()
+{
 	int n;
 	nhap(n);
-	int giatri=tinh(n);
+	int giatri=abs(n);
 	xuat(giatri);
 	return 0;
 }
 
-void nhap(int &n){
+void nhap(int &n)
+{
 	scanf("%d", &n);
 }
 
-int tinh(int n){
-	return abs(n);
+int abs(int n)
+{
+	if (n<0)
+		return -n;
+	return n;
 }
 
 void xuat(int kq){

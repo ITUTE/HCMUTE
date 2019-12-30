@@ -1,35 +1,36 @@
-//-----Doc so-----
+//https://github.com/Titytus/HCMUTE
+//-----Kiem tra nam nhuan-----
 
 #include <stdio.h>
 
-void nhap(int &number);
-void func(int number);
+void nhap(int &year);
+bool kiemtra(int year);
+void xuat(int kq);
 
-int main(){
-	int number;
-	nhap(number);
-	func(number);
+int main()
+{
+	int year;
+	nhap(year);
+	int kq=kiemtra(year);
+	xuat(kq);
 	return 0;
 }
 
-void nhap(int &number){
-	scanf("%d", &number);
+void nhap(int &year)
+{
+	scanf("%d", &year);
 }
 
-void func(int number){
-	switch (number)
-	{
-		case 0: printf("Khong");	break;
-		case 1: printf("Mot"); 		break;
-		case 2: printf("Hai"); 		break;
-		case 3: printf("Ba"); 		break;
-		case 4: printf("Bon"); 		break;
-		case 5: printf("Nam"); 		break;
-		case 6: printf("Sau"); 		break;
-		case 7: printf("Bay"); 		break;
-		case 8: printf("Tam"); 		break;
-		case 9: printf("Chin"); 	break;
-		default: printf("Khong doc duoc");
-	}
+bool kiemtra(int year)
+{
+	return ( (year % 400 == 0) || (year % 4 == 0 && year % 100 != 0) );
 }
 
+void xuat(int kq)
+{
+	if (kq)
+		printf("Nam nhuan");
+	else
+		printf("Nam khong nhuan");
+	
+}

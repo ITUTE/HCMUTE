@@ -1,37 +1,38 @@
-//-----Giai phuong trinh ax+b=0 -----
+ //https://github.com/Titytus/HCMUTE
+ //-----Tinh a/b-----
 
 #include <stdio.h>
 
-void nhap(float &a, float &b);
-int solve(float a, float b, float &x);
-void xuat(int kt, float x);
+void nhap(int &a, int &b);
+int tinhThuong(int a, int b, float &thuong);
+void xuat(int kt, float thuong);
 
-int main(){
-	float a,b,x;
+int main()
+{
+	int a,b;
 	nhap(a,b);
-	int kt=solve(a,b,x);
-	xuat(kt,x);
+	float thuong;
+	int kt=tinhThuong(a,b,thuong);
+	xuat(kt,thuong);
 	return 0;
 }
 
-void nhap(float &a, float &b){
-	scanf("%f%f", &a, &b);
+void nhap(int &a, int &b)
+{
+	scanf("%d%d", &a, &b);
 }
 
-int solve(float a, float b, float &x){
-	if (a==0&&b!=0)
+int tinhThuong(int a, int b, float &thuong)
+{
+	if (b==0)
 		return 0;
-	else if (a==0&&b==0)
-			return 1;
-		else {
-			x=-float(b)/a;
-			return 2;
-		}
+	thuong = float(a) / b;
+	return 1;
 }
-void xuat(int kt, float x){
+void xuat(int kt, float thuong)
+{
 	if (kt==0)
-		printf("Phuong trinh vo nghiem.");
-	else if (kt==1)
-			printf("Phuong trinh VSN");
-		else printf("Nghiem duy nhat: x= %.2f", x);
+		printf("Khong chia duoc.");
+	else
+		printf("%.2f", thuong);	
 }

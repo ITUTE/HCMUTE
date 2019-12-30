@@ -1,27 +1,32 @@
+//https://github.com/Titytus/HCMUTE
 //-----Chu vi HCN-----
 
 #include <stdio.h>
 
-void nhap(float &a, float &b);
-float tinh(float a, float b);
-void xuat(float a);
+void nhap(double &a, double &b);
+double tinh(double a, double b);
+void xuat(double a);
 
-int main(){
-	float a,b;
+int main()
+{
+	double a,b;
 	nhap(a,b);
-	float chuvi=tinh(a,b);
+	double chuvi=tinh(a,b);
 	xuat(chuvi);
 	return 0;
 }
 
-void nhap(float &a, float &b){
-	scanf("%f%f", &a, &b);
+void nhap(double &a, double &b)
+{
+	scanf("%lf%lf", &a, &b);
 }
 
-float tinh(float a, float b){
+double tinh(double a, double b)
+{
 	return 2*(a+b);
 }
 
-void xuat(float a){
-	printf("%.2f", a);
+void xuat(double a)
+{
+	printf("%.2lf", a);
 }

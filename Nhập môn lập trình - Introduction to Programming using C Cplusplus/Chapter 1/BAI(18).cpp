@@ -1,36 +1,26 @@
- //-----Tinh a/b-----
+//https://github.com/Titytus/HCMUTE
+//-----Lam tron-----
 
 #include <stdio.h>
+#include <math.h>
 
-void nhap(int &a, int &b);
-int tinhThuong(int a, int b, float &thuong);
-void xuat(int kt, float thuong);
+void nhap(float &a);
+void xuat(int a);
 
-int main(){
-	int a,b;
-	nhap(a,b);
-	float thuong;
-	int kt=tinhThuong(a,b,thuong);
-	xuat(kt,thuong);
+int main()
+{
+	float a;
+	nhap(a);
+	xuat(roundf(a));
 	return 0;
 }
 
-void nhap(int &a, int &b){
-	scanf("%d%d", &a, &b);
+void nhap(float &a)
+{
+	scanf("%f", &a);
 }
 
-int tinhThuong(int a, int b, float &thuong){
-	if (b==0)
-		return 0;
-	else {
-		thuong=float(a)/b;
-		return 1;
-	}
-}
-void xuat(int kt, float thuong){
-	if (kt==0)
-		printf("Khong chia duoc.");
-	else {
-		printf("%.2f", thuong);	
-	}
+void xuat(int a)
+{
+	printf("%d", a);
 }

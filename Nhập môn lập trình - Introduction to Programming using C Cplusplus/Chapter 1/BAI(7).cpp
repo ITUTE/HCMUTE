@@ -1,28 +1,35 @@
-//-----Làm tròn xuô'ng-----
+//https://github.com/Titytus/HCMUTE
+//-----Min(a,b,c)-----
 
 #include <stdio.h>
-#include <math.h>
 
-void nhap(float &a);
-int round(float a);
-void xuat(int kq);
+void nhap(int &a, int &b, int &c);
+void xuat(int a);
+int min(int a, int b, int c);
 
-int main(){
-	float a;
-	nhap(a);
-	int kq=round(a);
+int main()
+{
+	int a,b,c;
+	nhap(a,b,c);
+	int kq=min(a,b,c);
 	xuat(kq);
-	return 0;
 }
 
-void nhap(float &a){
-	scanf("%f", &a);
+void nhap(int &a, int &b, int &c)
+{
+	scanf("%d%d%d", &a, &b, &c);
 }
 
-int round(float a){	
-	return floor(a);
+void xuat(int a)
+{
+	printf("%d", a);
 }
 
-void xuat(int kq){
-	printf("%d", kq);
+int min(int a, int b, int c)
+{
+	if ((a<=b)&&(a<=c))
+		return a;
+	if ((b<=a)&&(b<=c))
+			return b;
+	return c;
 }

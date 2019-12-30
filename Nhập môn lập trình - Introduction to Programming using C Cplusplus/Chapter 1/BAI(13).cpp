@@ -1,52 +1,33 @@
-//-----Co may ngay trong thang n? -----
+//https://github.com/Titytus/HCMUTE
+//-----Max(a,b,c,d)-----
 
 #include <stdio.h>
 
-void nhap(int &month, int &year);
-int songay(int month, int year);
-bool nhuan(int year);
-void xuat(int kq);
+void nhap(float &a, float &b, float &c, float &d);
+float max(float x, float y);
+void xuat(float kq);
 
-int main(){
-	int month, year;
-	nhap(month, year);
-	int kq=songay(month, year);
+int main()
+{
+	float a,b,c,d;
+	nhap(a,b,c,d);
+	float kq=max(max(max(a,b),c),d);
 	xuat(kq);
 	return 0;
 }
 
-void nhap(int &month, int &year){
-	scanf("%d%d", &month, &year);
+void nhap(float &a, float &b, float &c, float &d)
+{
+	scanf("%f%f%f%f", &a, &b, &c, &d);
 }
 
-bool nhuan(int year){
-	return ((year % 400==0)||(((year % 4==0&&year % 100!=0))));
+float max(float x, float y)
+{
+	return (x>y) ? x : y;
 }
 
-int songay(int month, int year){
-	switch (month)
-	{
-		case 1:
-		case 3:
-		case 5:
-		case 7:
-		case 8:
-		case 10:
-		case 12:
-			return 31;break;
-		case 4:
-		case 6:
-		case 9:
-		case 11:
-			return 30;break;
-		default:
-			if (nhuan(year))
-				return 29;
-			else
-				return 28;
-	}
+void xuat(float kq)
+{
+	printf("%f", kq);
 }
 
-void xuat(int kq){
-	printf("So ngay: %d\n", kq);
-}

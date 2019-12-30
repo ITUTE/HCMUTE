@@ -1,31 +1,34 @@
-//-----Max(a,b,c,d)-----
+//https://github.com/Titytus/HCMUTE
+//----Doi ki tu: CHAR<=>char----
 
 #include <stdio.h>
 
-void nhap(float &a, float &b, float &c, float &d);
-float max(float x, float y);
-void xuat(float kq);
+void nhap(char &ch);
+char func(char ch);
+void xuat(char ch);
 
-int main(){
-	float a,b,c,d;
-	nhap(a,b,c,d);
-	float kq=max(max(max(a,b),c),d);
+int main()
+{
+	char ch;
+	nhap(ch);
+	char kq=func(ch);
 	xuat(kq);
 	return 0;
 }
 
-void nhap(float &a, float &b, float &c, float &d){
-	scanf("%f%f%f%f", &a, &b, &c, &d);
+void nhap(char &ch)
+{
+	scanf("%c", &ch);
 }
 
-float max(float x, float y){
-	if (x>y)
-		return x;
-	else
-		return y;
+char func(char ch)
+{
+	if ( (ch >= 'A') && (ch <= 'Z'))
+		return ch+32;
+	return ch-32;
 }
 
-void xuat(float kq){
-	printf("%f", kq);
+void xuat(char ch)
+{
+	printf("%c", ch);
 }
-
