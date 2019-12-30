@@ -28,6 +28,7 @@ int abs(int n)
 	return n;
 }
 
-void xuat(int kq){
+void xuat(int kq)
+{
 	printf("%d", kq);
 }
