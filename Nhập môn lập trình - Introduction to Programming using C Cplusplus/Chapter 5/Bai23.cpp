@@ -5,6 +5,7 @@
 
 void tachSo(unsigned long x, int A[], int &nA);
 void docSo(unsigned long x);
+void donVi(int A[], int n, int k, char so[10][10], char text[]);
 
 int main()
 {
@@ -29,7 +30,7 @@ void donVi(int A[], int n, int k, char so[10][10], char text[])
 	{
 		strcat(text,so[A[i]]);
 		strcat(text," ");
-		strcat(text,viTri[k-i])
+		strcat(text,viTri[k-i]);
 	}
 	
 }
