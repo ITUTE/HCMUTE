@@ -1,0 +1,33 @@
+Move 1 from A to C
+Move 2 from A to B
+Move 1 from C to B
+Move 3 from A to C
+Move 1 from B to A
+Move 2 from B to C
+Move 1 from A to C
+Move 4 from A to B
+Move 1 from C to B
+Move 2 from C to A
+Move 1 from B to A
+Move 3 from C to B
+Move 1 from A to C
+Move 2 from A to B
+Move 1 from C to B
+Move 5 from A to C
+Move 1 from B to A
+Move 2 from B to C
+Move 1 from A to C
+Move 3 from B to A
+Move 1 from C to B
+Move 2 from C to A
+Move 1 from B to A
+Move 4 from B to C
+Move 1 from A to C
+Move 2 from A to B
+Move 1 from C to B
+Move 3 from A to C
+Move 1 from B to A
+Move 2 from B to C
+Move 1 from A to C
+
+0.007000000000000
