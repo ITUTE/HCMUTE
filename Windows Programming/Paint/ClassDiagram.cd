@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Paint.Program" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Properties.Resources" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NIhAAAAAFCAAAAIBCAADFIAQDxQAgAggBAICQAAQEPA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Properties.Settings" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Shapes.MyArc" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAgIAAAAAAAAAAAAgAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Shapes\MyArc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Shapes.MyCurve" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAIAQAgAAEAAAAAAAAAAgAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Shapes\MyCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Shapes.MyEllipse" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAgAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes\MyEllipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Shapes.MyLine" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAgAAEAAAAAAAAAAgAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Shapes\MyLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Shapes.MyPolygon" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAIAQAgAAEAAAAAAAAAAgAAAAAAAAAAAACAQ=</HashCode>
+      <FileName>Shapes\MyPolygon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Shapes.MyRectangle" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAgAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes\MyRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Shapes.MyShapes" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Paint.Shapes.MyShapes.Edge" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Shapes\MyShapes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAoAQGgIAEAgAAQAAAACgAgAAAEAAQAAAAgA=</HashCode>
+      <FileName>Shapes\MyShapes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Shapes.Group" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACAKAQAgAAECEAAAQAAAAgAAAAAAAAQAAAAAQ=</HashCode>
+      <FileName>Shapes\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Shapes.MyClosedCurve" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAgAAEAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes\MyClosedCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.FrmMain" Collapsed="true">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>DQWouOBwCmOkNRKD2FOKRgaCKAxHDgowh7ieqAIaIHI=</HashCode>
+      <FileName>FrmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint.Shapes.MyPath" Collapsed="true">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAIAQAgAAEAAAAAAAAAAgAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Shapes\MyPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Paint.SHAPES" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAQAAAgAIACAAAAAAAAAAEAAggAAAAAAAAAAAA=</HashCode>
+      <FileName>ENUMS\SHAPES.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Paint.ACTION" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAACAAABAAAAAABAAAAA=</HashCode>
+      <FileName>ENUMS\ACTION.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

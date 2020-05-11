@@ -4,7 +4,7 @@ struct PHANSO
 {
 	int tuso;
 	int mauso;	
-};
+}a,b;
 
 void nhapPS(PHANSO &a);
 void xuatPS(PHANSO a);
@@ -22,12 +22,17 @@ void chuanHoa(PHANSO &a);
 int kiemTra(PHANSO a);
 int soSanh(PHANSO a, PHANSO b);
 void xuly(PHANSO a, PHANSO b);
-
+void nhap(PHANSO &a, PHANSO &b)
+{
+	scanf("%d%d",&a.tuso,&a.mauso);
+	scanf("%d%d",&b.tuso,&b.mauso);
+}
 int main()
 {
 	PHANSO a,b;
-	nhapPS(a);
-	nhapPS(b);
+	nhap(a,b);
+	//nhapPS(a);
+	//nhapPS(b);
 	xuat(a);
 	xuat(b);
 	xuly(a,b);
@@ -77,6 +82,7 @@ void xuly(PHANSO a, PHANSO b)
 	printf("\nNhan: ");		xuatPS(nhan(a,b));
 	printf("\nChia: ");		xuatPS(chia(a,b));
 }
+/*
 int UCLN(int x, int y)
 {
 	if (x*y==0)
@@ -89,6 +95,16 @@ int UCLN(int x, int y)
 		else
 			y%=x;
 	return x+y;
+}
+*/
+
+int UCLN(int x, int y)
+{
+	if (x<0) x=-x;
+	if (y<0) y=-y;
+	while (x!=y)
+		if (x>y) x=x-y; else y=y-x;
+	return x;
 }
 
 PHANSO rutGon(PHANSO a)

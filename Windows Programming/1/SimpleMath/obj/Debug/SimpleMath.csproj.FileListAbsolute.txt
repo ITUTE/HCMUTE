@@ -1,0 +1,9 @@
+D:\Github\HCMUTE\Windows Programming\1\SimpleMath\bin\Debug\SimpleMath.exe.config
+D:\Github\HCMUTE\Windows Programming\1\SimpleMath\bin\Debug\SimpleMath.exe
+D:\Github\HCMUTE\Windows Programming\1\SimpleMath\bin\Debug\SimpleMath.pdb
+D:\Github\HCMUTE\Windows Programming\1\SimpleMath\obj\Debug\SimpleMath.csprojAssemblyReference.cache
+D:\Github\HCMUTE\Windows Programming\1\SimpleMath\obj\Debug\SimpleMath.frmMain.resources
+D:\Github\HCMUTE\Windows Programming\1\SimpleMath\obj\Debug\SimpleMath.Properties.Resources.resources
+D:\Github\HCMUTE\Windows Programming\1\SimpleMath\obj\Debug\SimpleMath.csproj.GenerateResource.cache
+D:\Github\HCMUTE\Windows Programming\1\SimpleMath\obj\Debug\SimpleMath.exe
+D:\Github\HCMUTE\Windows Programming\1\SimpleMath\obj\Debug\SimpleMath.pdb

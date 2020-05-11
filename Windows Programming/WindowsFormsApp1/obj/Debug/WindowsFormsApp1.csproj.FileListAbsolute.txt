@@ -1,0 +1,9 @@
+D:\Github\HCMUTE\Windows Programming\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Github\HCMUTE\Windows Programming\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Github\HCMUTE\Windows Programming\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Github\HCMUTE\Windows Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Github\HCMUTE\Windows Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Github\HCMUTE\Windows Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Github\HCMUTE\Windows Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Github\HCMUTE\Windows Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Github\HCMUTE\Windows Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache

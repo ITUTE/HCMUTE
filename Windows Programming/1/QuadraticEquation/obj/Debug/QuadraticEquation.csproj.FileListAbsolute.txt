@@ -1,0 +1,9 @@
+D:\Github\HCMUTE\Windows Programming\1\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\Github\HCMUTE\Windows Programming\1\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\Github\HCMUTE\Windows Programming\1\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\Github\HCMUTE\Windows Programming\1\QuadraticEquation\obj\Debug\QuadraticEquation.csprojAssemblyReference.cache
+D:\Github\HCMUTE\Windows Programming\1\QuadraticEquation\obj\Debug\QuadraticEquation.frmMain.resources
+D:\Github\HCMUTE\Windows Programming\1\QuadraticEquation\obj\Debug\QuadraticEquation.Properties.Resources.resources
+D:\Github\HCMUTE\Windows Programming\1\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.GenerateResource.cache
+D:\Github\HCMUTE\Windows Programming\1\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Github\HCMUTE\Windows Programming\1\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

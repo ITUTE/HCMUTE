@@ -1,0 +1,9 @@
+D:\Github\HCMUTE\Windows Programming\1\Calculator\bin\Debug\Calculator.exe.config
+D:\Github\HCMUTE\Windows Programming\1\Calculator\bin\Debug\Calculator.exe
+D:\Github\HCMUTE\Windows Programming\1\Calculator\bin\Debug\Calculator.pdb
+D:\Github\HCMUTE\Windows Programming\1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Github\HCMUTE\Windows Programming\1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Github\HCMUTE\Windows Programming\1\Calculator\obj\Debug\Calculator.exe
+D:\Github\HCMUTE\Windows Programming\1\Calculator\obj\Debug\Calculator.pdb
+D:\Github\HCMUTE\Windows Programming\1\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Github\HCMUTE\Windows Programming\1\Calculator\obj\Debug\Calculator.frmCalculator.resources
