@@ -89,10 +89,10 @@
 -----
 
 ## 5. Tiêu chuẩn Hội nhập tốt
-### a. Về ngoại ngữ: 
 
 <img align="right" src="images/SV5T%20(7).PNG" alt="Tiêu chuẩn Hội nhập tốt (về ngoại ngữ)" width="40%"/>
 
+### a. Về ngoại ngữ: 
 *Đạt ít nhất 01 tiêu chí trong những tiêu chí sau:*
 - Có chứng nhận thi thử, hoặc giấy xác nhận thi TOEIC đạt từ 450 điểm (hoặc tương đương) trở lên hoặc JLPT N5 (Tiếng Nhật) và các ngôn ngữ tương đương.
 - Điểm trung bình các môn anh văn đã học (av1, av2, av3, av chuyên ngành) là 7.5 nếu môn nào chưa học thì không tính vô trung bình.
@@ -103,10 +103,9 @@
 
 -----
 
-### b. Về kỹ năng
-
 <img align="right" src="images/SV5T%20(8).PNG" alt="Tiêu chuẩn Hội nhập tốt (về kỹ năng)" width="40%"/>
 
+### b. Về kỹ năng
 *Đạt ít nhất 01 tiêu chí trong những tiêu chí sau:*
 - Đạt giải trong các cuộc thi về kỹ năng cấp khoa trở lên.
 - Tham dự ít nhất 01 hội thảo về kỹ năng hoặc các lớp học trang bị kỹ năng thực hành xã hội từ cấp khoa trở lên.
@@ -117,10 +116,9 @@
 
 -----
 
-### c. Tiêu chuẩn ưu tiên (Áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng) 
-
 <img align="right" src="images/SV5T%20(7).PNG" alt="Tiêu chuẩn Hội nhập tốt (về tiêu chuẩn ưu tiên áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng)" width="40%"/>
 
+### c. Tiêu chuẩn ưu tiên (Áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng) 
 *Đạt ít nhất 01 tiêu chí trong các tiêu chí sau:*
 - Tham gia ít nhất 01 hoạt động giao lưu quốc tế từ cấp trường trở lên và tương đương: Hội nghị, Hội thảo quốc tế, các chương trình gặp gỡ, giao lưu, hợp tác với thanh niên, sinh viên quốc tế trong và ngoài nước 
 - Tham gia ít nhất 01 hội thảo về hội nhập, giới thiệu doanh nghiệp, phỏng vấn, tư vấn học bổng từ các doanh nghiệp từ cấp trường trở lên và tương đương. (photo giấy xác nhận)
