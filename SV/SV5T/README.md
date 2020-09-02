@@ -15,7 +15,7 @@
 -  ❤️ Tình nguyện tốt.
 -  🤝 Hội nhập tốt
 
-<p align="center" ><img src="images/SV5T%20(2).PNG" alt="Các tiêu chí Sinh viên 5 tốt" width="75%"/></p>
+<p align="center" ><img src="images/SV5T%20(2).PNG" alt="Các tiêu chí Sinh viên 5 tốt" width="70%"/></p>
 
 ***Ban Chấp hành Liên Chi hội khoa Công nghệ Thông tin*** ban hành hướng dẫn đến các Chi hội trực thuộc Liên Chi hội khoa Công nghệ Thông tin về quy định tiêu chuẩn xét chọn danh hiệu ***Sinh viên 5 tốt*** và danh hiệu “Tập thể Sinh viên 5 tốt” cấp Liên Chi hội năm học ***2019 – 2020*** như sau:
 
@@ -147,7 +147,7 @@ Danh hiệu áp dụng đối với các Chi hội trực thuộc Liên Chi hộ
 
 # III. THỰC HIỆN ĐĂNG KÝ
 
-<img src="images/SV5T%20(11).PNG" alt="Đăng ký Sinh viên 5 tốt"/>
+<img src="images/SV5T%20(11).PNG" alt="Đăng ký Sinh viên 5 tốt" width="70%"/>
 
 ## 1.	Đối tượng tham gia:
 Tất cả sinh viên đang học tập, sinh hoạt tại Khoa Công nghệ Thông tin, Trường Đại học Sư Phạm Kỹ Thuật TP.HCM đều có quyền tham gia đăng ký xét chọn danh hiệu.
@@ -156,11 +156,10 @@ Tất cả sinh viên đang học tập, sinh hoạt tại Khoa Công nghệ Th�
 Từ ngày ***06/10/2020*** đến ngày ***30/10/2020***.
 
 ## 3.	Địa điểm nhận hồ sơ:
-
-<img src="images/SV5T%20(12).PNG" alt="Đăng ký sinh viên 5 tốt"/>
-
 + Gửi trực tiếp về Văn phòng Đoàn-Hội Khoa Công nghệ Thông tin, lầu 2 – Khu E (Trung tâm Tin học).(file giấy)
 + Gửi (file mềm) qua gmail: doanhoiitspkt@gmail.com
+
+<img src="images/SV5T%20(12).PNG" alt="Đăng ký sinh viên 5 tốt" width="70%"/>
 
 ## 4.	Hình thức đăng ký: 
 Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
@@ -189,12 +188,12 @@ Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
 
 # 6.	Hình thức khen thưởng
 
-<img align="right" src="images/SV5T%20(15).PNG" alt="Khen thưởng" width="40%"/>
+<img align="center" src="images/SV5T%20(15).PNG" alt="Khen thưởng" width="70%"/>
 
 Đối với các sinh viên, tập thể được công nhận danh hiệu “Sinh viên 5 tốt”.
 - Giấy khen và giấy chứng nhận đạt danh hiệu “Sinh viên 5 tốt” do Ban thư ký Hội Sinh viên trường cấp.
 - Khen thưởng của Ban chủ nhiệm Khoa Công nghệ thông tin.
 
 ## Mọi thắc mắc liên hệ:
-+ Đ/c Trần Ngọc Minh Thiện – LCH Trưởng LCH Khoa Công nghệ Thông tin – 0965921007.
-+ Đ/c Nguyễn Huỳnh Minh Tiến - UV BCH LCH Khoa Công nghệ Thông tin -  0388963345.
++ Đ/c [Trần Ngọc Minh Thiện](https://www.facebook.com/tadeothien) – LCH Trưởng LCH Khoa Công nghệ Thông tin – 0965921007.
++ Đ/c [Nguyễn Huỳnh Minh Tiến](https://www.facebook.com/01.tien) - UV BCH LCH Khoa Công nghệ Thông tin -  0388963345.
