@@ -79,12 +79,12 @@
 
 <img align="right" src="images/SV5T%20(6).PNG" alt="Tiêu chuẩn Tình nguyện tốt" width="50%"/>
 
-*Đạt ít nhất 01 tiêu chí trong những tiêu chí sau: *
+*Đạt ít nhất 01 tiêu chí trong những tiêu chí sau:*
 - Tham gia và nhận giấy chứng nhận hoàn thành một trong các chiến dịch, chương trình sau: Chiến dịch Mùa hè xanh, chiến dịch Xuân tình nguyện, chương trình Tiếp sức mùa thi. 
 - Tham gia và đạt được ít nhất 20 điểm công tác xã hội/năm.
 - Được khen thưởng từ cấp trường trở lên về hoạt động tình nguyện. 
 - Nếu sinh viên tham gia hoạt động CTXH ngoài trường thì phải có giấy chứng nhận có giá trị pháp lý (giấy chứng nhận có mộc tròn) và sẽ được quy đổi điểm tương đương với các chương trình trong trường tổ chức.
-- Tham gia ít nhất 02 ngày tình nguyện/năm ( được tính theo số ngày thực tế tham gia các hoạt động tình nguyện cộng đồng. Ví dụ: sinh viên A tham gia 1 ngày tình nguyện tại mái ấm nhà mở, 1 ngày thứ 7 tình nguyện, 1 ngày Chủ nhật xanh ở những thời điểm khác nhau trong năm sẽ được tính đủ tiêu chuẩn).
+- Tham gia ít nhất 02 ngày tình nguyện/năm (được tính theo số ngày thực tế tham gia các hoạt động tình nguyện cộng đồng. Ví dụ: sinh viên A tham gia 1 ngày tình nguyện tại mái ấm nhà mở, 1 ngày thứ 7 tình nguyện, 1 ngày Chủ nhật xanh ở những thời điểm khác nhau trong năm sẽ được tính đủ tiêu chuẩn).
 
 -----
 
@@ -93,7 +93,7 @@
 
 <img align="right" src="images/SV5T%20(7).PNG" alt="Tiêu chuẩn Hội nhập tốt (về ngoại ngữ)" width="50%"/>
 
-*Đạt ít nhất 01 tiêu chí trong những tiêu chí sau: *
+*Đạt ít nhất 01 tiêu chí trong những tiêu chí sau:*
 - Có chứng nhận thi thử, hoặc giấy xác nhận thi TOEIC đạt từ 450 điểm (hoặc tương đương) trở lên hoặc JLPT N5 (Tiếng Nhật) và các ngôn ngữ tương đương.
 - Điểm trung bình các môn anh văn đã học (av1, av2, av3, av chuyên ngành) là 7.5 nếu môn nào chưa học thì không tính vô trung bình.
 - Đối với Khóa 2019, có điểm anh văn đầu vào đạt từ 450 điểm trở lên.
@@ -121,13 +121,13 @@
 
 <img align="right" src="images/SV5T%20(7).PNG" alt="Tiêu chuẩn Hội nhập tốt (về tiêu chuẩn ưu tiên áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng)" width="50%"/>
 
-*Đạt ít nhất 01 tiêu chí trong các tiêu chí sau: *
+*Đạt ít nhất 01 tiêu chí trong các tiêu chí sau:*
 - Tham gia ít nhất 01 hoạt động giao lưu quốc tế từ cấp trường trở lên và tương đương: Hội nghị, Hội thảo quốc tế, các chương trình gặp gỡ, giao lưu, hợp tác với thanh niên, sinh viên quốc tế trong và ngoài nước 
 - Tham gia ít nhất 01 hội thảo về hội nhập, giới thiệu doanh nghiệp, phỏng vấn, tư vấn học bổng từ các doanh nghiệp từ cấp trường trở lên và tương đương. (photo giấy xác nhận)
 - Là thanh niên tiêu biểu được biểu dương, khen thưởng trên các lĩnh vực tại địa phương, đơn vị hoặc được nêu gương trên các phương tiện truyền thông đại chúng.
  - Tham gia các cuộc thi tìm hiểu về văn hóa, lịch sử, xã hội trong nước và thế giới từ cấp trường trở lên.
 
-***Lưu ý: ***
+***Lưu ý:***
 - Tất cả các thành tích xét trao danh hiệu “Sinh viên 5 tốt” cấp Trường được tính trong khoảng thời gian của năm học xét trao danh hiệu, có đầy đủ minh chứng kèm theo. 
 - Thời điểm xét thành tích được tính từ ngày 01/09 năm học trước đến 01/09 năm học xét hồ sơ. 
 - Mỗi minh chứng chỉ được kê khai trong 1 một tiêu chí duy nhất.
@@ -137,7 +137,7 @@
 # II. TIÊU CHUẨN XÉT CHỌN DANH HIỆU
 # “TẬP THỂ SINH VIÊN 5 TỐT” CẤP LIÊN CHI HỘI NĂM HỌC 2019 – 2020
 
-<img align="right" src="images/SV5T%20(10).PNG" alt="Tiêu chuẩn Tập thể sinh viên 5 tốt" width="50%"/>
+<img align="right" src="images/SV5T%20(10).PNG" alt="Tiêu chuẩn Tập thể sinh viên 5 tốt" width="40%"/>
 
 ## 1. Đối tượng: 
 Danh hiệu áp dụng đối với các Chi hội trực thuộc Liên Chi hội khoa Công nghệ Thông tin.
@@ -147,8 +147,6 @@ Danh hiệu áp dụng đối với các Chi hội trực thuộc Liên Chi hộ
 - Tập thể Chi Hội có 100% sinh viên đăng ký và có từ 10% sinh viên đạt danh hiệu “Sinh viên 5 tốt” cấp Liên chi hội.
 - Có 01 mô hình, giải pháp cấp Chi hội thực hiện hiệu quả phong trào được nhân rộng cấp Liên chi hội.
 - Không có sinh viên vi phạm pháp luật và các quy chế, nội quy nhà trường, quy định của địa phương cư trú và cộng đồng.
-
-
 
 
 -----
