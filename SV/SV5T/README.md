@@ -15,7 +15,7 @@
 -  ❤️ Tình nguyện tốt.
 -  🤝 Hội nhập tốt
 
-<p align="center" ><img src="images/SV5T%20(2).PNG" alt="Các tiêu chí Sinh viên 5 tốt" width="50%"/></p>
+<p align="center" ><img src="images/SV5T%20(2).PNG" alt="Các tiêu chí Sinh viên 5 tốt" width="40%"/></p>
 
 ***Ban Chấp hành Liên Chi hội khoa Công nghệ Thông tin*** ban hành hướng dẫn đến các Chi hội trực thuộc Liên Chi hội khoa Công nghệ Thông tin về quy định tiêu chuẩn xét chọn danh hiệu ***Sinh viên 5 tốt*** và danh hiệu “Tập thể Sinh viên 5 tốt” cấp Liên Chi hội năm học ***2019 – 2020*** như sau:
 
@@ -23,7 +23,7 @@
 
 ## 1. Đạo đức tốt:
 
-<img align="right" src="images/SV5T%20(3).PNG" alt="Tiêu chuẩn Đạo đức tốt" width="50%"/>
+<img align="right" src="images/SV5T%20(3).PNG" alt="Tiêu chuẩn Đạo đức tốt" width="40%"/>
 
 ### a. Tiêu chuẩn bắt buộc:
 - Có lòng yêu nước, trung thành với mục tiêu cách mạng của Đảng.
@@ -43,7 +43,7 @@
 
 ## 2. Tiêu chuẩn Học tập tốt:
 
-<img align="right" src="images/SV5T%20(4).PNG" alt="Tiêu chuẩn Học tập tốt" width="50%"/>
+<img align="right" src="images/SV5T%20(4).PNG" alt="Tiêu chuẩn Học tập tốt" width="40%"/>
 
 ### a. Tiêu chuẩn bắt buộc:
 - Có động cơ, thái độ học tập đúng đắn, không gian lận trong thi cử, không nợ môn, học phần hoặc tín chỉ trong năm học 2019 - 2020.
@@ -62,7 +62,7 @@
 
 ## 3. Tiểu chuẩn Thể lực tốt
 
-<img align="right" src="images/SV5T%20(5).PNG" alt="Tiêu chuẩn Thể lực tốt" width="50%"/>
+<img align="right" src="images/SV5T%20(5).PNG" alt="Tiêu chuẩn Thể lực tốt" width="40%"/>
 
 *Đạt ít nhất 01 tiêu chí trong những tiêu chí sau:*
 - Đạt danh hiệu “Thanh niên khỏe” năm học xét thành tích từ cấp trường trở lên (giấy chứng nhận).
@@ -77,7 +77,7 @@
 
 ### 4. Tiêu chuẩn Tình nguyện tốt
 
-<img align="right" src="images/SV5T%20(6).PNG" alt="Tiêu chuẩn Tình nguyện tốt" width="50%"/>
+<img align="right" src="images/SV5T%20(6).PNG" alt="Tiêu chuẩn Tình nguyện tốt" width="40%"/>
 
 *Đạt ít nhất 01 tiêu chí trong những tiêu chí sau:*
 - Tham gia và nhận giấy chứng nhận hoàn thành một trong các chiến dịch, chương trình sau: Chiến dịch Mùa hè xanh, chiến dịch Xuân tình nguyện, chương trình Tiếp sức mùa thi. 
@@ -91,7 +91,7 @@
 ## 5. Tiêu chuẩn Hội nhập tốt
 ### a. Về ngoại ngữ: 
 
-<img align="right" src="images/SV5T%20(7).PNG" alt="Tiêu chuẩn Hội nhập tốt (về ngoại ngữ)" width="50%"/>
+<img align="right" src="images/SV5T%20(7).PNG" alt="Tiêu chuẩn Hội nhập tốt (về ngoại ngữ)" width="40%"/>
 
 *Đạt ít nhất 01 tiêu chí trong những tiêu chí sau:*
 - Có chứng nhận thi thử, hoặc giấy xác nhận thi TOEIC đạt từ 450 điểm (hoặc tương đương) trở lên hoặc JLPT N5 (Tiếng Nhật) và các ngôn ngữ tương đương.
@@ -105,7 +105,7 @@
 
 ### b. Về kỹ năng
 
-<img align="right" src="images/SV5T%20(8).PNG" alt="Tiêu chuẩn Hội nhập tốt (về kỹ năng)" width="50%"/>
+<img align="right" src="images/SV5T%20(8).PNG" alt="Tiêu chuẩn Hội nhập tốt (về kỹ năng)" width="40%"/>
 
 *Đạt ít nhất 01 tiêu chí trong những tiêu chí sau:*
 - Đạt giải trong các cuộc thi về kỹ năng cấp khoa trở lên.
@@ -119,7 +119,7 @@
 
 ### c. Tiêu chuẩn ưu tiên (Áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng) 
 
-<img align="right" src="images/SV5T%20(7).PNG" alt="Tiêu chuẩn Hội nhập tốt (về tiêu chuẩn ưu tiên áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng)" width="50%"/>
+<img align="right" src="images/SV5T%20(7).PNG" alt="Tiêu chuẩn Hội nhập tốt (về tiêu chuẩn ưu tiên áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng)" width="40%"/>
 
 *Đạt ít nhất 01 tiêu chí trong các tiêu chí sau:*
 - Tham gia ít nhất 01 hoạt động giao lưu quốc tế từ cấp trường trở lên và tương đương: Hội nghị, Hội thảo quốc tế, các chương trình gặp gỡ, giao lưu, hợp tác với thanh niên, sinh viên quốc tế trong và ngoài nước 
@@ -192,14 +192,12 @@ Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
 
 # 6.	Hình thức khen thưởng
 
-<img align="right" src="images/SV5T%20(15).PNG" alt="Khen thưởng" width="50%"/>
+<img align="right" src="images/SV5T%20(15).PNG" alt="Khen thưởng" width="40%"/>
 
 Đối với các sinh viên, tập thể được công nhận danh hiệu “Sinh viên 5 tốt”.
 - Giấy khen và giấy chứng nhận đạt danh hiệu “Sinh viên 5 tốt” do Ban thư ký Hội Sinh viên trường cấp.
 - Khen thưởng của Ban chủ nhiệm Khoa Công nghệ thông tin.
 
------
-
-# Mọi thắc mắc liên hệ:
+## Mọi thắc mắc liên hệ:
 + Đ/c Trần Ngọc Minh Thiện – LCH Trưởng LCH Khoa Công nghệ Thông tin – 0965921007.
 + Đ/c Nguyễn Huỳnh Minh Tiến - UV BCH LCH Khoa Công nghệ Thông tin -  0388963345.
