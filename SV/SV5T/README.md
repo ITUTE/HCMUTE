@@ -156,7 +156,7 @@ Tất cả sinh viên đang học tập, sinh hoạt tại Khoa Công nghệ Th�
 Từ ngày ***06/10/2020*** đến ngày ***30/10/2020***.
 
 ## 3.	Địa điểm nhận hồ sơ:
-+ Gửi trực tiếp về Văn phòng Đoàn-Hội Khoa Công nghệ Thông tin, lầu 2 – Khu E (Trung tâm Tin học).(file giấy)
++ Gửi trực tiếp (file giấy) về Văn phòng Đoàn-Hội Khoa Công nghệ Thông tin, lầu 2 – Khu E ([Trung tâm Tin học](https://goo.gl/maps/qBk9XHgAoWeWPXg96)).
 + Gửi (file mềm) qua gmail: doanhoiitspkt@gmail.com
 
 <p align="center"><img src="images/SV5T%20(12).PNG" alt="Đăng ký sinh viên 5 tốt" width="60%"/></p>
