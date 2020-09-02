@@ -147,7 +147,7 @@ Danh hiệu áp dụng đối với các Chi hội trực thuộc Liên Chi hộ
 
 # III. THỰC HIỆN ĐĂNG KÝ
 
-<img src="images/SV5T%20(11).PNG" alt="Đăng ký Sinh viên 5 tốt" width="70%"/>
+<p align="center"><img src="images/SV5T%20(11).PNG" alt="Đăng ký Sinh viên 5 tốt" width="70%"/></p>
 
 ## 1.	Đối tượng tham gia:
 Tất cả sinh viên đang học tập, sinh hoạt tại Khoa Công nghệ Thông tin, Trường Đại học Sư Phạm Kỹ Thuật TP.HCM đều có quyền tham gia đăng ký xét chọn danh hiệu.
@@ -188,7 +188,7 @@ Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
 
 # 6.	Hình thức khen thưởng
 
-<img align="center" src="images/SV5T%20(15).PNG" alt="Khen thưởng" width="70%"/>
+<p align="center"><img src="images/SV5T%20(15).PNG" alt="Khen thưởng" width="70%"/></p>
 
 Đối với các sinh viên, tập thể được công nhận danh hiệu “Sinh viên 5 tốt”.
 - Giấy khen và giấy chứng nhận đạt danh hiệu “Sinh viên 5 tốt” do Ban thư ký Hội Sinh viên trường cấp.
