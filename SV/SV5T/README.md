@@ -15,7 +15,7 @@
 -  ❤️ Tình nguyện tốt.
 -  🤝 Hội nhập tốt
 
-<p align="center" ><img src="images/SV5T%20(2).PNG" alt="Các tiêu chí Sinh viên 5 tốt"/></p>
+<p align="center" ><img src="images/SV5T%20(2).PNG" alt="Các tiêu chí Sinh viên 5 tốt" width="75%"/></p>
 
 ***Ban Chấp hành Liên Chi hội khoa Công nghệ Thông tin*** ban hành hướng dẫn đến các Chi hội trực thuộc Liên Chi hội khoa Công nghệ Thông tin về quy định tiêu chuẩn xét chọn danh hiệu ***Sinh viên 5 tốt*** và danh hiệu “Tập thể Sinh viên 5 tốt” cấp Liên Chi hội năm học ***2019 – 2020*** như sau:
 
@@ -75,10 +75,9 @@
 
 -----
 
-### 4. Tiêu chuẩn Tình nguyện tốt
-
 <img align="right" src="images/SV5T%20(6).PNG" alt="Tiêu chuẩn Tình nguyện tốt" width="40%"/>
 
+### 4. Tiêu chuẩn Tình nguyện tốt
 *Đạt ít nhất 01 tiêu chí trong những tiêu chí sau:*
 - Tham gia và nhận giấy chứng nhận hoàn thành một trong các chiến dịch, chương trình sau: Chiến dịch Mùa hè xanh, chiến dịch Xuân tình nguyện, chương trình Tiếp sức mùa thi. 
 - Tham gia và đạt được ít nhất 20 điểm công tác xã hội/năm.
@@ -101,8 +100,6 @@
 - Về chứng nhận ngoại ngữ: chấp nhận các chứng nhận, chứng chỉ do Trung tâm ngoại ngữ của trường trong các đợt thi thử; các chứng chỉ của các trung tâm ngoại ngữ liên kết với Đoàn -  Hội Sinh viên trường.
 - Tham gia ít nhất 01 hoạt động giao lưu quốc tế: Hội nghị, Hội thảo quốc tế, các chương trình gặp gỡ, giao lưu, hợp tác với thanh niên, sinh viên quốc tế trong và ngoài nước và đạt giấy chứng nhận do BGH nhà trường cấp hoặc tương đương. (Chấp nhận các chứng chỉ, kết quả thi thử, thi đầu ra từ các mốc điểm ở trên trở lên.)
 
------
-
 <img align="right" src="images/SV5T%20(8).PNG" alt="Tiêu chuẩn Hội nhập tốt (về kỹ năng)" width="40%"/>
 
 ### b. Về kỹ năng
@@ -113,8 +110,6 @@
 - Tích cực tham gia các hoạt động của Đoàn thanh niên – Hội sinh viên Khoa (có xác nhận của Thường trực cơ sở Đoàn – Hội)
 - Tham gia lớp tập huấn cán bộ Đoàn – Hội  từ cấp khoa trở lên. 
 - Được Đoàn Thanh niên-Hội Sinh viên từ cấp Khoa trở lên khen thưởng về thành tích xuất sắc trong công tác Đoàn và phong trào thanh niên hoặc công tác Hội và phong trào sinh viên. 
-
------
 
 <img align="right" src="images/SV5T%20(7).PNG" alt="Tiêu chuẩn Hội nhập tốt (về tiêu chuẩn ưu tiên áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng)" width="40%"/>
 
