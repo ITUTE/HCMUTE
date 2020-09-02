@@ -15,7 +15,7 @@
 -  ❤️ Tình nguyện tốt.
 -  🤝 Hội nhập tốt
 
-<p align="center" ><img src="images/SV5T%20(2).PNG" alt="Các tiêu chí Sinh viên 5 tốt" width="40%"/></p>
+<p align="center" ><img src="images/SV5T%20(2).PNG" alt="Các tiêu chí Sinh viên 5 tốt"/></p>
 
 ***Ban Chấp hành Liên Chi hội khoa Công nghệ Thông tin*** ban hành hướng dẫn đến các Chi hội trực thuộc Liên Chi hội khoa Công nghệ Thông tin về quy định tiêu chuẩn xét chọn danh hiệu ***Sinh viên 5 tốt*** và danh hiệu “Tập thể Sinh viên 5 tốt” cấp Liên Chi hội năm học ***2019 – 2020*** như sau:
 
@@ -151,7 +151,7 @@ Danh hiệu áp dụng đối với các Chi hội trực thuộc Liên Chi hộ
 
 # III. THỰC HIỆN ĐĂNG KÝ
 
-<img src="images/SV5T%20(11).PNG" alt="Đăng ký Sinh viên 5 tốt" width="50%"/><img src="images/SV5T%20(11).PNG" alt="Đăng ký sinh viên 5 tốt" width="50%"/>
+<img src="images/SV5T%20(11).PNG" alt="Đăng ký Sinh viên 5 tốt"/>
 
 ## 1.	Đối tượng tham gia:
 Tất cả sinh viên đang học tập, sinh hoạt tại Khoa Công nghệ Thông tin, Trường Đại học Sư Phạm Kỹ Thuật TP.HCM đều có quyền tham gia đăng ký xét chọn danh hiệu.
@@ -160,6 +160,9 @@ Tất cả sinh viên đang học tập, sinh hoạt tại Khoa Công nghệ Th�
 Từ ngày ***06/10/2020*** đến ngày ***30/10/2020***.
 
 ## 3.	Địa điểm nhận hồ sơ:
+
+<img src="images/SV5T%20(12).PNG" alt="Đăng ký sinh viên 5 tốt"/>
+
 + Gửi trực tiếp về Văn phòng Đoàn-Hội Khoa Công nghệ Thông tin, lầu 2 – Khu E (Trung tâm Tin học).(file giấy)
 + Gửi (file mềm) qua gmail: doanhoiitspkt@gmail.com
 
