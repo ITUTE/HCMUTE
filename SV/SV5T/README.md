@@ -113,7 +113,7 @@
 
 ### c. Tiêu chuẩn ưu tiên (Áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng) 
 
-<img align="right" src="images/SV5T%20(7).PNG" alt="Tiêu chuẩn Hội nhập tốt (về tiêu chuẩn ưu tiên áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng)" width="40%"/>
+<img align="right" src="images/SV5T%20(9).PNG" alt="Tiêu chuẩn Hội nhập tốt (về tiêu chuẩn ưu tiên áp dụng cho các sinh viên không đạt những tiêu chí trong mục kỹ năng)" width="40%"/>
 
 *Đạt ít nhất 01 tiêu chí trong các tiêu chí sau:*
 - Tham gia ít nhất 01 hoạt động giao lưu quốc tế từ cấp trường trở lên và tương đương: Hội nghị, Hội thảo quốc tế, các chương trình gặp gỡ, giao lưu, hợp tác với thanh niên, sinh viên quốc tế trong và ngoài nước 
