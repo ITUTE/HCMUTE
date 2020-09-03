@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tien_NguyenHuynhMinh_18110377_baitap1", "Tien_NguyenHuynhMinh_18110377_baitap1.pyproj", "{2AC8E216-1BB1-4679-B344-3AD1B3E84A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC8E216-1BB1-4679-B344-3AD1B3E84A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC8E216-1BB1-4679-B344-3AD1B3E84A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB294D7D-1A8F-4DF1-B098-45E3B67E4824}
+	EndGlobalSection
+EndGlobal
