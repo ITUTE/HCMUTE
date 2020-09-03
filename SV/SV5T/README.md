@@ -190,13 +190,13 @@ Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
 
 # 6.	Hình thức khen thưởng
 
-<p align="center"><img src="images/SV5T%20(15).PNG" alt="Khen thưởng" width="60%"/></p>
+<p align="center"><img src="images/SV5T%20(16).PNG" alt="Khen thưởng" width="60%"/></p>
 
 Đối với các sinh viên, tập thể được công nhận danh hiệu “Sinh viên 5 tốt”.
 - Giấy khen và giấy chứng nhận đạt danh hiệu “Sinh viên 5 tốt” do Ban thư ký Hội Sinh viên trường cấp.
 - Khen thưởng của Ban chủ nhiệm Khoa Công nghệ thông tin.
 
 ## Mọi thắc mắc liên hệ:
-+ Đ/c [Trần Ngọc Minh Thiện](https://www.facebook.com/tadeothien) – LCH Trưởng LCH Khoa Công nghệ Thông tin – 0965921007.
 + Đ/c [Nguyễn Huỳnh Minh Tiến](https://www.facebook.com/01.tien) - UV BCH LCH Khoa Công nghệ Thông tin -  0388963345.
++ Đ/c [Diệp Tấn Luân](https://www.facebook.com/luan.diep.92) - UV BCH LCH Khoa Công nghệ Thông tin -  0898654463.
 ----------------
