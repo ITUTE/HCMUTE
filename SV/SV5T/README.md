@@ -190,7 +190,7 @@ Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
 
 # 6.	Hình thức khen thưởng
 
-<p align="center"><img src="images/SV5T%20(16).PNG" alt="Khen thưởng" width="60%"/></p>
+<p align="center"><img src="images/SV5T%20(16).png" alt="Khen thưởng" width="60%"/></p>
 
 Đối với các sinh viên, tập thể được công nhận danh hiệu “Sinh viên 5 tốt”.
 - Giấy khen và giấy chứng nhận đạt danh hiệu “Sinh viên 5 tốt” do Ban thư ký Hội Sinh viên trường cấp.
