@@ -109,7 +109,7 @@
 - Đạt giải trong các cuộc thi về kỹ năng cấp khoa trở lên.
 - Tham dự ít nhất 01 hội thảo về kỹ năng hoặc các lớp học trang bị kỹ năng thực hành xã hội từ cấp khoa trở lên.
 - Là BCN của CLB, Đội, Nhóm từ cấp Khoa trở lên (xác nhận của chủ nhiệm CLB) hoặc là cán bộ Đoàn- Hội từ cấp Ủy viên BCH Chi Đoàn- Chi Hội trở lên.
-- Tích cực tham gia các hoạt động của Đoàn thanh niên – Hội sinh viên Khoa (có xác nhận của Thường trực cơ sở Đoàn – Hội)
+- Tích cực tham gia các hoạt động của Đoàn thanh niên – Hội sinh viên Khoa (có xác nhận của Thường trực cơ sở [Đoàn](https://github.com/TienNHM/HCMUTE/raw/master/SV/SV5T/Docs/GXN-Doan-khoa.docx) – [Hội](https://github.com/TienNHM/HCMUTE/raw/master/SV/SV5T/Docs/GXN-LCH-khoa.docx)).
 - Tham gia lớp tập huấn cán bộ Đoàn – Hội  từ cấp khoa trở lên. 
 - Được Đoàn Thanh niên-Hội Sinh viên từ cấp Khoa trở lên khen thưởng về thành tích xuất sắc trong công tác Đoàn và phong trào thanh niên hoặc công tác Hội và phong trào sinh viên. 
 
@@ -174,9 +174,9 @@ Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
 
 ### 5.1	 Đối với cá nhân:
 - 01 bìa hồ sơ tóm tắt thông tin cá nhân.
-- Bản khai cá nhân theo mẫu (lưu ý tập trung cho các thành tích theo hướng dẫn, khai cụ thể, chi tiết cho từng tiêu chuẩn nhất là tiêu chuẩn bắt buộc).
+- [Bản khai cá nhân theo mẫu](https://github.com/TienNHM/HCMUTE/raw/master/SV/SV5T/Docs/M%E1%BA%AAU%201%20-%20C%C3%81%20NH%C3%82N_LCH.doc) (lưu ý tập trung cho các thành tích theo hướng dẫn, khai cụ thể, chi tiết cho từng tiêu chuẩn nhất là tiêu chuẩn bắt buộc).
 - Bảng điểm năm học, bảng điểm rèn luyện của 2 học kì năm học 2019 – 2020 , bảng điểm CTXH.
-- Bản photo các loại văn bằng, bằng khen, giấy chứng nhận, bài báo đăng tin điển hình có xác nhận của Đoàn-Hội Sinh viên trường.
+- Bản photo các loại văn bằng, bằng khen, giấy chứng nhận, bài báo đăng tin điển hình có xác nhận của Đoàn - Hội Sinh viên trường.
 -  02 ảnh thẻ 3x4 (cm).
 
 ### 5.2	 Đối với tập thể:
