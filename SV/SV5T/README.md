@@ -179,6 +179,7 @@ Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
 - Bản photo các loại văn bằng, bằng khen, giấy chứng nhận, bài báo đăng tin điển hình có xác nhận của Đoàn - Hội Sinh viên trường.
 -  02 ảnh thẻ 3x4 (cm).
 
+[![Bản khai cá nhân theo mẫu](https://img.shields.io/badge/Bản%20khai%20cá%20nhân%20theo%20mẫu-Download-yellow.svg)](https://github.com/TienNHM/HCMUTE/raw/master/SV/SV5T/Docs/M%E1%BA%AAU%201%20-%20C%C3%81%20NH%C3%82N_LCH.doc) [![Giấy xác nhận Đoàn khoa](https://img.shields.io/badge/Giấy%20xác%20nhận%20Đoàn%20khoa-Download-green.svg)](https://github.com/TienNHM/HCMUTE/raw/master/SV/SV5T/Docs/GXN-Doan-khoa.docx) [![Giấy xác nhận Liên Chi hội khoa](https://img.shields.io/badge/Giấy%20xác%20nhận%20Liên%20Chi%20hội%20khoa-Download-blue.svg)](https://github.com/TienNHM/HCMUTE/raw/master/SV/SV5T/Docs/GXN-LCH-khoa.docx)
 ### 5.2	 Đối với tập thể:
 - Bản khai tập thể theo mẫu;
 - Bản photo các loại văn bằng, giấy khen, giấy chứng nhận.
