@@ -1,4 +1,4 @@
-//https://github.com/Titytus/HCMUTE
+
 //-----Doc so-----
 
 #include <stdio.h>
