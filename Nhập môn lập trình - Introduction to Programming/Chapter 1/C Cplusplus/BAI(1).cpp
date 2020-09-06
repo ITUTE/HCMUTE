@@ -1,4 +1,3 @@
-
 //-----abs(n)-----
 
 #include <stdio.h>
