@@ -1,4 +1,4 @@
-//https://github.com/Titytus/HCMUTE
+
 //-----abs(n)-----
 
 #include <stdio.h>
