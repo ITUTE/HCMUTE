@@ -1,4 +1,4 @@
-//https://github.com/Titytus/HCMUTE
+
 //-----Kiem tra nam nhuan-----
 
 #include <stdio.h>
