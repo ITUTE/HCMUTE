@@ -1,0 +1,25 @@
+a 100
+mov ah,6	;xoa toan man hinh
+mov al,0
+mov bh,07
+mov cx,0
+mov dx,184f
+int 10		;-------------------------------------
+mov ah,2	; chuyen con tro den vi tri de in
+mov bh,0
+mov dh,5	;dong 5
+mov dl,0	;cot 0
+int 10		;-------------------------------------
+mov dl,30	;bat dau in tu '0'=30h
+mov cx,50	;in 80 lan
+mov ah,2	;--->[1]
+int 21
+inc dl
+cmp dl,3a
+jnz 12a		;loop (1)
+mov dl,30
+loop 11d	;--->(1), mov [1]
+mov ah,8	;nhap phim de ket thuc
+int 21
+int 20
+

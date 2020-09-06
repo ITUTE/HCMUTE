@@ -1,0 +1,29 @@
+a 100
+mov ah,6	;xoa toan man hinh
+mov al,0
+mov bh,07	;text color
+mov cx,0	;goc trai tren
+mov dx,184f	;goc phai duoi
+int 10
+mov bh,0	;in cot so
+mov dh,0	;row
+mov bl,30
+mov cx,19	;so lan lap 19h=25d
+push cx		;3
+mov dl,0	;column ***********************
+mov ah,2	;xac dinh vi tri con tro
+int 10
+mov dl,bl
+mov ah,2
+int 21
+inc bl
+cmp bl,3a
+jnz 12d       ;2
+mov bl,30
+inc dh        ;2
+pop cx
+loop 117      ;3
+mov ah,8
+int 21
+int 20
+

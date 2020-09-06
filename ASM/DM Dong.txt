@@ -1,0 +1,36 @@
+a 100
+mov dh,0a
+push dx    ;(2)
+mov ah,6
+mov al,0
+mov bh,07
+mov cx,0
+mov dx,184f
+int 10
+pop dx
+mov dl,0
+mov cx,50
+push cx     ;(1)
+mov ah,2
+mov bh,0
+int 10
+mov ah,9
+mov al,20
+mov bh,0
+add bl,0d
+mov cx,1
+int 10
+inc dl
+pop cx
+loop 117    ;(1)
+mov ah,8
+int 21
+cmp al,1b
+jz  144
+inc dh
+cmp dh,14
+jnz 142
+mov dh,0a
+jmp 102     ;(3)
+int 20      ;(4)
+

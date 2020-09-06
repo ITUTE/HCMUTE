@@ -1,0 +1,110 @@
+a 100
+mov dl,23	;###########cot mau bat dau in(dong min)
+push dx		;(6)
+mov ah,6	;xoa man hinh
+mov al,0	
+mov bh,07
+mov cx,0
+mov dx,184f
+int 10
+mov ah,2    	;di chuyen con tro den vi tri can in, in dong so#####
+mov bh,0
+mov dh,16	;in tren dong 22<<<<<<<<
+mov dl,0	;in bat dau tu cot
+int 10
+mov dl,30	;30 = "0"
+mov cx,50	;50 in 80 lan
+mov ah,2       	;(2)in mot ky tu
+int 21
+inc dl		;tang dl len 1
+cmp dl,3a	;kien tra lon hon 9 chua
+jnz 12d        	;(1)
+mov dl,30
+loop 120       	;(1)(2)
+mov bh,0       	;in cot so####
+mov dh,0	
+mov bl,30	
+mov cx,19	;in 25 ky tu
+push cx       	;(4)
+mov dl,3f	;in cot thu 63<<<<<<<<<<
+mov ah,2	;
+int 10
+mov dl,bl
+mov ah,2
+int 21
+inc bl
+cmp bl,3a
+jnz 14e     	;(3)
+mov bl,30
+inc dh        	;(3)
+pop cx
+loop 138      	;(4)
+pop dx
+mov bl,dh
+mov dh,0        ;##########	
+mov cx,19       ;#########lap 25 lan cho cot
+push cx		;(5)
+mov ah,2
+mov bh,0
+int 10
+mov ah,9
+mov al,20
+mov bh,0
+add bl,0d
+mov cx,1
+int 10
+inc dh          ;#########dong cot
+pop cx
+loop 15b	;(5)
+mov ah,8
+int 21
+cmp al,1b
+jz  18b		;(7)
+inc dl          ;##########dong cot
+cmp dl,41	;###########max cot 
+jnz 186 	;(8)
+mov dl,23	;#########quay lai dong min
+mov dh,bl	;###############(8)
+jmp 102		;(6)
+mov ah,6
+mov al,0
+mov bh,7
+mov cx,0
+mov dx,184f
+int 10
+mov bh,4e
+mov cx,050a
+mov dx,0a2c
+int 10
+mov bh,6a
+mov cx,090e
+mov dx,0e30
+int 10
+mov bh,a7
+mov cx,0d12
+mov dx,1234
+int 10
+mov bh,17
+mov cx,1116
+mov dx,1638
+int 10
+mov ah,2    ; xd vtri in
+mov bh, 0
+mov dx, 151a ; vi tri in (tinh toan can phai)
+int 10
+mov ah,9     ; in
+mov dx,200   ; dx lay nd o 200
+int 21
+mov ah,2     ; xd vi tri in
+mov bh, 0    ; trang man hinh hien tai
+mov dx, 162a ; vi tri in (tinh toan can phai)
+int 10
+mov ah,9     ; in
+mov dx,250   ; dx lay noi dung o 250
+int 21
+mov ah, 8
+int 21
+int 20
+
+e 250 "MSSV : 18110377$"		
+e 200 "Ho ten : Nguyen Huynh Minh Tien$"

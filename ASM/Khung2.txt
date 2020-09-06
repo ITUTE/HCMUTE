@@ -1,0 +1,23 @@
+a 100
+mov ah,6
+mov al,0
+mov bh,4e
+mov cx,050a
+mov dx,0a2c
+int 10
+mov bh,6a
+mov cx,090e
+mov dx,0e30
+int 10
+mov bh,a7
+mov cx,0d12
+mov dx,1234
+int 10
+mov bh,7f
+mov cx,1116
+mov dx,1638
+int 10
+mov ah,8
+int 21
+int 20
+
