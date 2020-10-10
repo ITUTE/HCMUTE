@@ -214,7 +214,7 @@ Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
 </details>
 
 <details>
- <summay>Cấp khoa</summary>
+ <summary>Cấp khoa</summary>
  
 [![Giấy xác nhận Đoàn khoa](https://img.shields.io/badge/Giấy%20xác%20nhận%20Đoàn%20khoa-Download-green.svg)](https://tinyurl.com/y42qmft6)
 [![Giấy xác nhận Liên Chi hội khoa](https://img.shields.io/badge/Giấy%20xác%20nhận%20Liên%20Chi%20hội%20khoa-Download-blue.svg)](https://tinyurl.com/y2vcu5cc)
