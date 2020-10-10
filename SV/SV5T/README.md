@@ -205,27 +205,26 @@ Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
 <details>
  <summary>Các biểu mẫu</summary>
  
-[![Bản khai cá nhân theo mẫu](https://img.shields.io/badge/Bản%20khai%20cá%20nhân%20theo%20mẫu-Download-yellow.svg)](https://github.com/TienNHM/HCMUTE/raw/master/SV/SV5T/Docs/M%E1%BA%AAU%201%20-%20C%C3%81%20NH%C3%82N_LCH.doc)
+[![Bản khai cá nhân theo mẫu](https://img.shields.io/badge/Bản%20khai%20cá%20nhân%20theo%20mẫu-Download-yellow.svg)](https://tinyurl.com/y6r7yklm)
+[![Hướng dẫn điền Bản khai cá nhân theo mẫu](https://img.shields.io/badge/Hướng%20dẫn%20điền%20Bản%20khai%20cá%20nhân%20theo%20mẫu-Download-yellow.svg)](https://tinyurl.com/yyngpafe)
+
+[![Bản khai thành tích tập thể](https://img.shields.io/badge/Bản%20khai%20thành%20tích%20tập%20thể-Download-yellow.svg)](https://tinyurl.com/y6r7yklm)
 
 </details>
 
 <details>
- <summary>Các loại giấy xác nhận</summary>
- 
- <details>
  <summay>Cấp khoa</summary>
  
 [![Giấy xác nhận Đoàn khoa](https://img.shields.io/badge/Giấy%20xác%20nhận%20Đoàn%20khoa-Download-green.svg)](https://tinyurl.com/y42qmft6)
 [![Giấy xác nhận Liên Chi hội khoa](https://img.shields.io/badge/Giấy%20xác%20nhận%20Liên%20Chi%20hội%20khoa-Download-blue.svg)](https://tinyurl.com/y2vcu5cc)
 [![Giấy xác nhận CLB cấp khoa](https://img.shields.io/badge/Giấy%20xác%20nhận%20CLB%20cấp%20khoa-Download-blue.svg)](https://tinyurl.com/y5f9qntt)
- </details>
+</details>
  
- <details>
+<details>
  <summary>Cấp trường</summary>
  
  [![Giấy xác nhận Đoàn trường](https://img.shields.io/badge/Giấy%20xác%20nhận%20Đoàn%20trường-Download-green.svg)](https://tinyurl.com/yxlystcd)
  [![Giấy xác nhận HSV trường](https://img.shields.io/badge/Giấy%20xác%20nhận%20HSV%20trường-Download-blue.svg)](https://tinyurl.com/yy4mgv7n)
  [![Giấy xác nhận CLB cấp trường](https://img.shields.io/badge/Giấy%20xác%20nhận%20CLB%20cấp%20trường-Download-blue.svg)](https://tinyurl.com/y2468xos)
  [![Giấy xác nhận của các phòng ban](https://img.shields.io/badge/Giấy%20xác%20nhận%20các%20phòng%20ban-Download-blue.svg)](https://tinyurl.com/y2eod8ud)
- </details>
 </details>
