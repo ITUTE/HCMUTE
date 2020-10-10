@@ -203,6 +203,8 @@ Sinh viên đăng ký tham gia rèn luyện và nộp hồ sơ bình xét.
 ----------------
 
 # Các mẫu đơn
+*Click vào để xem chi tiết.*
+
 <details>
  <summary>Các biểu mẫu</summary>
  
