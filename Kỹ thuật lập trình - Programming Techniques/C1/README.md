@@ -129,3 +129,23 @@ Tìm chiến lược đi để người đi trước luôn thắng.
 
 _Hướng dẫn_:
 Hoàn toàn có thể sử dụng thuật toán đi đối xứng của bài trên để giải bài này. Có thể mở rộng bài toán như đã làm ở bài toán 3 song ở việc quản lý các miền khó khăn hơn rất nhiều.
+
+### 1.19.
+Lập ma trận kỳ ảo theo cách khác bài 6.9 theo như hướng dẫn bên dưới.
+
+<p align="center"><img src="images/1.19.png" height="200px" /></p>
+
+- Xuất phát từ ô bên phải của ô nằm giữa. Đi theo hướng đông bắc để điền các số 1, 2, ...
+- Khi điền số, cần chú ý một số nguyên tắc sau:
+  - Nếu vượt ra phía ngoài bên phải của bảng thì quay trở lại cột đầu tiên.
+  - Nếu vượt ra phía ngoài bên trên của bảng thì quay trở lại dòng cuối cùng.
+  - Nếu số đã điền k chia hết cho N thì số tiếp theo sẽ được viết trên cùng một hàng với k nhưng cách 1 ô về phía bên phải.
+  
+### 1.20. 
+Viết chương trình in ra các số nguyên từ 1 đến N2 theo hình xoắn ốc với N được nhập vào từ bàn phím. Ví dụ, với N=4 ta có:
+
+1 | 2 | 3 | 4
+--- | --- | --- | ---
+12 | 13 | 14 | 5
+11 | 16 | 15 | 6
+10 | 9 | 8 | 7
