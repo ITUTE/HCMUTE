@@ -91,7 +91,7 @@ Viết chương trình thực hiện những công việc sau:
 - g) Tìm sinh viên có tuổi lớn nhất.
 - h) Nhập vào tên của một sinh viên. Tìm và in ra các thông tin liên quan đến sinh viên đó (nếu có).
 
-# 1.14. [VIDEO.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C0/VIDEO.cpp)
+### 1.14. [VIDEO.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C0/VIDEO.cpp)
 Tổ chức dữ liệu quản lí danh mục các bộ phim `VIDEO`, các thông tin liên quan đến bộ phim này như sau:
 
 - Tên phim (tựa phim).
@@ -108,14 +108,14 @@ Viết chương trình thực hiện những công việc sau:
 - c) Nhập một tên nam diễn viên. In ra các bộ phim có diễn viên này đóng.
 - d) Nhập tên đạo diễn. In ra danh sách các bộ phim do đạo diễn này dàn dựng.
 
-# 1.15. 
+### 1.15. 
 Một thư viện cần quản lý thông tin về các đầu sách. Mỗi đầu sách bao gồm các thông tin sau : `MaSSach` (mã số sách), `TenSach` (tên sách), `TacGia` (tác giả), `SL` (số lượng các cuốn sách của đầu sách). Viết chương trình thực hiện các chức năng sau:
 
 - a) Nhập vào một danh sách các đầu sách (tối đa là 100 đầu sách).
 - b) Nhập vào tên của quyển sách. In ra thông tin đầy đủ về các sách có tên đó, nếu không có thì tên của quyển sách đó thì báo là: `Không Tìm Thấy`.
 - c) Tính tổng số sách có trong thư viện.
 
-# 1.16. 
+### 1.16. 
 Viết chương trình tạo một mảng danh sách các máy tính của một cửa hàng, thông tin của một máy tính bao gồm:
 
 - Loại máy
