@@ -66,7 +66,7 @@ Viết lại các chương trình ở chương 6 với dữ liệu vào và ra l
 ### 1.11.
 Viết chương trình tạo một mảng các số phức. Hãy viết hàm tính tổng, tích các số phức có trong mảng.
 
-### 1.12. [Quay lại 1.2](#1.2.)
+### 1.12. [Quay lại 1.2](#12-arr_phansocpp)
 Viết chương trình tạo một mảng các phân số. Hãy viết hàm thực hiện các công việc sau:
 
 - Tính tổng tất cả các phân số (kết quả dưới dạng phân số tối giản)
