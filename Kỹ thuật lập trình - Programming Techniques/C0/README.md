@@ -16,8 +16,7 @@ _Hướng dẫn_:
 - Xây dựng hàm nhập và xuất ngày tháng năm (Kiểu dữ liệu DATE).
 - Sau đó mới xây dựng hàm nhập và xuất cho danh sách học sinh.
 
-### 1.2.
-[ARR_PHANSO.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C0/ARR_PHANSO.cpp)
+### 1.2. [ARR_PHANSO.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C0/ARR_PHANSO.cpp)
 Cho một mảng các phân số (PHANSO) gồm n phần tử (n≤50). Hãy viết chương trình nhập và xuất danh sách các phân số sau đó tìm phân số có giá trị lớn nhất, tổng và tích các phân số và nghịch đảo giá trị các phân số trong mảng.
 
 _Hướng dẫn_:
