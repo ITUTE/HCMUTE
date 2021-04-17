@@ -5,16 +5,16 @@
 ### 1.1.
 Tìm một số trong một mảng bằng lính canh.
 
-### 1.2.
+### 1.2. [BinarySEARCH.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/BinarySEARCH.cpp)
 Tìm một số trong một mảng đã có thứ tự (tìm nhị phân).
 
-### 1.3. 
+### 1.3. [Add, Delete, Replace, Search (Array).cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/Add%2C%20Delete%2C%20Replace%2C%20Search%20(Array).cpp)
 Viết các thủ tục thêm, xóa, sửa, tìm kiếm một phần tử trong một mảng.
 
-### 1.4. 
+### 1.4. [2Dim_to_1Dim.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/4.2ndDim--to--1stDim.cpp)
 Viết hàm chuyển một mảng hai chiều thành một mảng một chiều.
 
-### 1.5. 
+### 1.5. [1Dim_2_2Dim.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/5.1stDim--to--2ndDim.cpp)
 Viết hàm chuyển một mảng một chiều có MxN phần tử sang một mảng 2 chiều kích thước MxN.
 
 ### 1.6.
@@ -68,7 +68,7 @@ _Hướng dẫn_: Trò chơi được giải quyết bằng phương pháp Lập
 ### 1.13. 
 Lập ma trận giá trị bãi mìn cho trò chơi Minesweeper.
 
-### 1.14. (Ma trận kỳ ảo – Ma phương) 
+### 1.14. (Ma trận kỳ ảo – Ma phương) [N_mp.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/N_mp.cpp) [MaPhuong.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/MaPhuong.cpp)
 Viết chương trình nhập vào số tự nhiên N (N lẻ), sau đó điền các số từ 1 đến `N^2` vào trong một bảng vuông sao cho tổng các hàng ngang, hàng dọc và 2 đường chéo đều bằng nhau.
 
 _Hướng dẫn_:
@@ -116,7 +116,7 @@ Có thể đặt ra bài toán khó hơn: Từ một trạng thái bất kỳ (m
 - Sử dụng khái niệm ”miền” trước đây. Hai miền khác nhau được gọi là đi cặp với nhau nếu chúng cùng số lượng ô.
 - Sau khi đã ghép được các cặp, còn một số miền chưa được ghép cặp: hãy khử số miền theo kiểu này song chú ý chớ nên tạo điều kiện cho đối thủ buộc ta rơi vào trạng thái thua.
 
-### 1.18. (Mở rộng của bài 7.7) 
+### 1.18. (Mở rộng của bài 7.7) [18.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/18.cpp)
 Cho m, n là hai số tự nhiên. Cho trước một bảng hai chiều gồm m dòng, mỗi dòng có n cột các ô, mỗi ô được đánh dấu hoặc không được đánh dấu và chỉ ở một ttrong hai trạng thái nói trên mà thôi. Một trò chơi hai đấu thủ được mô tả như sau:
 
 - Đầu tiên toàn bộ m x n ô của bảng chưa bị đánh dấu.
